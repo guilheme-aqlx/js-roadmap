@@ -1,5 +1,10 @@
 
 // Exemplo bem simples para entender a estrutura do operador ternario em JS
+
+console.log(false ? 'verdadeiro' : 'falso')
+console.log(true ? 'verdadeiro' : 'falso')
+console.log()
+
 let age = 15
 
 // Operador ternario bem simples
